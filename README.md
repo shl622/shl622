@@ -6,8 +6,7 @@
 🎓 &nbsp;I studied Computer Science at NYU and I'm currently pusruing MSC in Data Engineering at WGU.\
 🌱 &nbsp;I'm on track for learning more about Data Analytics, Data Pipelines and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for full stack projects or data analysis projects.\
-✉️ &nbsp;You can shoot me an email at devblee622@gmail.com! I'll try to respond as soon as I can.\
-
+✉️ &nbsp;You can shoot me an email at devblee622@gmail.com!
 
 ### 🛠 &nbsp;Tech Stack
 
