@@ -28,7 +28,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-### 📈 &nbsp;Data
+
 ![pyspark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apache-spark&logoColor=1572B6)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL&logoColor=1572B6)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
