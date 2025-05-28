@@ -11,29 +11,18 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=Go)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)&nbsp;
-![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=NestJS)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindCSS&logoColor=1572B6)&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 ![mongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
 
 ![pyspark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apache-spark&logoColor=1572B6)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL&logoColor=1572B6)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-Web-Services)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
